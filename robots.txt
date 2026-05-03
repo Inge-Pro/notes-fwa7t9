@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Inge-Pro.github.io/notes-fwa7t9/sitemap.xml
